@@ -93,7 +93,7 @@ body {
     color: var(--halogenio);
 }
 
-.halogenio:hover{
+.halogenio:hover {
     box-shadow: 0 0 15px;
 
 }
@@ -102,9 +102,9 @@ body {
     color: var(--outros-metais);
 }
 
-.outros-metais:hover{
+.outros-metais:hover {
     box-shadow: 0 0 15px;
-    
+
 
 }
 
@@ -112,7 +112,7 @@ body {
     color: var(--metal-transicao);
 }
 
-.metal-transicao:hover{
+.metal-transicao:hover {
     box-shadow: 0 0 15px;
 
 }
@@ -121,7 +121,7 @@ body {
     color: var(--lantanideo);
 }
 
-.lantanideo:hover{
+.lantanideo:hover {
     box-shadow: 0 0 15px;
 
 }
@@ -130,7 +130,7 @@ body {
     color: var(--actinidio);
 }
 
-.actinidio:hover{
+.actinidio:hover {
     box-shadow: 0 0 15px;
 
 }
